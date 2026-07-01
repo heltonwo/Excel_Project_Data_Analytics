@@ -1,17 +1,13 @@
 # 📈 Excel Data Analytics Portfolio
 
-## 🎓 Learning Context
-This portfolio was developed as a hands-on project to apply and consolidate data analytics concepts learned through an intensive Excel Crash Course on YouTube. 
+## 🎓 Course Context
+ 
+ 
+This portfolio was developed as a hands-on project to apply and consolidate data analytics concepts learned through an intensive Excel Crash Course by **[Luke Barousse](https://www.youtube.com/watch?v=pCJ15nGFgVg) ** on YouTube.
 
-* **Format:** Self-paced learning & practical application
-* **Focus Areas:** Dynamic dashboards, data cleaning, formulas, and data modeling (Power Query & Power Pivot).
-* **Objective:** Turn theoretical tutorial concepts into a functional, production-ready portfolio to demonstrate autonomy and technical execution.
-
+* **Instructor:** Luke Barousse (Data Analyst & Content Creator)
+ 
 ---
-
-## 📝 About the Repository
-This repository contains a complete collection of my data analytics work using Microsoft Excel, covering everything from core spreadsheet fundamentals to advanced business intelligence modeling.
-
 
 ## 📝 About the Repository
 This repository contains a complete collection of my data analytics work using Microsoft Excel, covering everything from core spreadsheet fundamentals to advanced business intelligence modeling.
