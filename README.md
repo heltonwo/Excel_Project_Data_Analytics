@@ -1,7 +1,16 @@
-# Excel_Project_Data_Analytics
-My project demostrating my Excell skill 
+# 📈 Excel Data Analytics Portfolio
 
-# Excel Data Analytics Portfolio
+## 🎓 Learning Context
+This portfolio was developed as a hands-on project to apply and consolidate data analytics concepts learned through an intensive Excel Crash Course on YouTube. 
+
+* **Format:** Self-paced learning & practical application
+* **Focus Areas:** Dynamic dashboards, data cleaning, formulas, and data modeling (Power Query & Power Pivot).
+* **Objective:** Turn theoretical tutorial concepts into a functional, production-ready portfolio to demonstrate autonomy and technical execution.
+
+---
+
+## 📝 About the Repository
+This repository contains a complete collection of my data analytics work using Microsoft Excel, covering everything from core spreadsheet fundamentals to advanced business intelligence modeling.
 
 
 ## 📝 About the Repository
